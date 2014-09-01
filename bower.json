@@ -1,0 +1,30 @@
+{
+  "name": "DynamicTable",
+  "version": "0.0.0",
+  "description": "Light implementation of dynamic table loading",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Alexey"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "highcharts": "~4.0.3"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.14",
+    "requirejs-text": "~2.0.12"
+  }
+}
